@@ -1,5 +1,4 @@
-# Fake News Detection
-Fake News Detection using Hybrid CNN and RNN
+# Fake News Detection using Hybrid CNN and RNN
 
 ### Why CNN and RNN?
 In model training, model is based on the dataset we have used and also how we maniplutae or extract feature from the given data. So for this projet we have used CNN as a feature extractor and RNN for taring model 
